@@ -3,5 +3,6 @@
 
 ## What projects I'm working/worked on?
 For now, I'm developing my discord bot, Latte.
-[Latte Repository](https://github.com/Lapis0875/Latte_ReWrite/tree/master)
+[Repository](https://github.com/Lapis0875/Latte_ReWrite/tree/master)
+
 Also, I'm planning to start my school IOT project. To start with, I'm planning to develop AI speaker which works as a central hub for IOT devices.

@@ -27,7 +27,7 @@ I'm interested in game development, artificail intelligence, web development, an
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ### API
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Discord API](https://img.shields.io/badge/-discord-api-7289da?style=flat-squarestyle=flat-square&logo=Discord)
+![Discord API](https://img.shields.io/badge/-discord-api-7289da?style=flat-square&logo=Discord)
 ### Web Hosting
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ### ETC

@@ -20,42 +20,43 @@ I'm interested in game development, artificail intelligence, web development, an
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)
 
 # ⚙ Technologies:
-### VCS
-![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+> ### VCS
+> ![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&&logo=git&logoColor=white)
+> ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+> ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-### Database
-![SQLite3](https://img.shields.io/badge/-SQLite3-003B57?style=flat-square&logo=SQLite&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+> ### Database
+> ![SQLite3](https://img.shields.io/badge/-SQLite3-003B57?style=flat-square&logo=SQLite&logoColor=white)
+> ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
-### Web Development
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
+> ### Web Development
+> ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
 
-### Game Engine
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+> ### Game Engine
+> ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
-### API
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Discord API](https://img.shields.io/badge/-discord_api-7289da?style=flat-square&logo=Discord&logoColor=white)
+> ### API
+> ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+> ![Discord API](https://img.shields.io/badge/-discord_api-7289da?style=flat-square&logo=Discord&logoColor=white)
 
-### Project Management
-![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+> ### Project Management
+> ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello)
+> ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-### Java / Kotlin dependancy
-![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle)
-![Apache-Maven](https://img.shields.io/badge/-Apache_Maven-C71A36?style=flat-square&logo=Apache-Maven)
+> ### Java / Kotlin dependancy
+> ![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle)
+> ![Apache-Maven](https://img.shields.io/badge/-Apache_Maven-C71A36?style=flat-square&logo=Apache-Maven&logoColor=white)
 
-### Static Web Page Generator
-![Jekyll](https://img.shields.io/badge/-Jekyll-CC0000?style=flat-square&logo=Jekyll)
-![Hexo](https://img.shields.io/badge/-Hexo-0E83CD?style=flat-square&logo=Hexo)
+> ### Static Web Page Generator
+> ![Jekyll](https://img.shields.io/badge/-Jekyll-CC0000?style=flat-square&logo=Jekyll)
+> ![Hexo](https://img.shields.io/badge/-Hexo-0E83CD?style=flat-square&logo=Hexo&logoColor=white)
 
-### Web Hosting
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-### ETC
-![Arduino](https://img.shields.io/badge/-Arduino-00979d?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+> ### Web Hosting
+> ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+
+> ### ETC
+> ![Arduino](https://img.shields.io/badge/-Arduino-00979d?style=flat-square&logo=arduino&logoColor=white)
+> ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 # 📱 Tools:
 ### IDE

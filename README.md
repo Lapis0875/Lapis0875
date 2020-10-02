@@ -36,14 +36,14 @@ I'm interested in game development, artificail intelligence, web development, an
 
 # 📫 How to reach me: 
 - [![Gmail Badge](https://img.shields.io/badge/-lapis0875@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lapis0875@gmail.com)](mailto:lapis0875@gmail.com)
-- [![Kakao Mail Badge](https://img.shields.io/badge/-lapis0875@kakao.com-c14438?style=flat-square&logo=kakao&logoColor=white&link=mailto:lapis0875@kakao.com)](mailto:lapis0875@kakao.com)
+- [![Kakao Mail Badge](https://img.shields.io/badge/-lapis0875@kakao.com-ffcd00?style=flat-square&logo=Kakao&logoColor=white&link=mailto:lapis0875@kakao.com)](mailto:lapis0875@kakao.com)
 - [![Discord Badge](https://img.shields.io/badge/-sleepylapis＃1608-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com)](https://discord.com)
 
 # 🕤 Fast Answers:
 ```
-[] Morning   [x] PC       [x] Messenger     [x] Home
+[ ] Morning   [x] PC       [x] Messenger     [x] Home
 [x] Evening   [ ] Mobile   [x] Discord       [x] School
-[ ] Midnight  [ ] Offline  [x] Text Message  [] Outdoor
+[ ] Midnight  [ ] Offline  [x] Text Message  [ ] Outdoor
 ```
 
 # Websites:

@@ -4,7 +4,7 @@ I'm interested in game development, artificail intelligence, web development, an
 
 # 💻 Development  Languages :
 ### Things I code with :zap:
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=yellow)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ### Things I am Learning :pencil2:
@@ -17,7 +17,7 @@ I'm interested in game development, artificail intelligence, web development, an
 
 # ⚙ Technologies
 ### VCS
-![Git](https://img.shields.io/badge/-Git-ffffff?style=flat-square&&logo=git)
+![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ### Database
@@ -26,7 +26,7 @@ I'm interested in game development, artificail intelligence, web development, an
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ### API
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Discord API](https://img.shields.io/badge/-discord-api-7289da?style=flat-squarestyle=flat-square&logo=discord)
+![Discord API](https://img.shields.io/badge/-discord-api-7289da?style=flat-squarestyle=flat-square&logo=Discord)
 ### Web Hosting
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ### ETC

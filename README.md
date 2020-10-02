@@ -12,8 +12,8 @@ I'm interested in game development, artificail intelligence, web development, an
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Golang](https://img.shields.io/badge/-Golang-00add8?style=flat-square&logo=Go&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-efefff?style=flat-square&logo=MySQL)
-![C#](https://img.shields.io/badge/-C#-efefff?style=flat-square&logo=c)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![C#](https://img.shields.io/badge/-C＃-239120?style=flat-square&logo=C)
 
 # ⚙ Technologies
 ### VCS
@@ -21,7 +21,7 @@ I'm interested in game development, artificail intelligence, web development, an
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ### Database
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ### Game Engine
 ![Unity](https://img.shields.io/badge/-Unity-ffffff?style=flat-square&logo=unity&logoColor=111111)
 ### API

@@ -2,7 +2,7 @@
 😎 Hi! My name is Lapis. I'm a student programmer in South Korea. I enjoy developing my own programs, and learning new techniques.
 I'm interested in game development, artificail intelligence, web development, and other fascinating domains! :sparkles:
 
-# 💻 Development  Languages :
+# 💻 Development  Languages:
 ### Things I code with :zap:
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java&logoColor=white)
@@ -15,7 +15,7 @@ I'm interested in game development, artificail intelligence, web development, an
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![C#](https://img.shields.io/badge/-C＃-239120?style=flat-square&logo=C)
 
-# ⚙ Technologies
+# ⚙ Technologies:
 ### VCS
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -50,5 +50,6 @@ I'm interested in game development, artificail intelligence, web development, an
 # Websites:
 I sometimes write some posts in [my blog](https://lapis0875.github.io)
 
+# My statistics:
 [![My github stats](https://github-readme-stats.vercel.app/api?username=Lapis0875&show_icons=true&hide_border=true&count_private=true)](https://github.com/Lapis0875)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lapis0875&layout=compact)](https://github.com/Lapis0875)

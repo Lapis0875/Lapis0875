@@ -13,7 +13,7 @@ I'm interested in game development, artificail intelligence, web development, an
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Golang](https://img.shields.io/badge/-Golang-00add8?style=flat-square&logo=Go&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-efefff?style=flat-square&logo=MySQL)
-![C#](https://img.shields.io/badge/-C#-efefff?style=flat-square&logo=c-sharp)
+![C#](https://img.shields.io/badge/-C#-efefff?style=flat-square&logo=c)
 
 # ⚙ Technologies
 ### VCS

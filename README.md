@@ -37,7 +37,9 @@ I'm interested in game development, artificail intelligence, web development, an
 
 > ### API
 > ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-> ![Discord API](https://img.shields.io/badge/-discord_api-7289da?style=flat-square&logo=Discord&logoColor=white)
+> ![Discord-API](https://img.shields.io/badge/-discord_api-7289da?style=flat-square&logo=Discord&logoColor=white)
+> ![Minecraft-Forge](https://img.shields.io/badge/-Minecraft_Forge-000000?style=flat-square&logo=Conda-Forge&logoColor=white)
+> ![Minecraft-Paper](https://img.shields.io/badge/-Minecraft_Paper-2CA5E0?style=flat-square&logo=Telegram&logoColor=white)
 
 > ### Project Management
 > ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello)

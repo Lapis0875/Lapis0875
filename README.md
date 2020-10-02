@@ -4,9 +4,9 @@ I'm interested in game development, artificail intelligence, web development, an
 
 # 💻 Development  Languages :
 ### Things I code with :zap:
-![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=yellow)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white)
 ### Things I am Learning :pencil2:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -21,7 +21,8 @@ I'm interested in game development, artificail intelligence, web development, an
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ### Database
-![MySQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![SQLite3](https://img.shields.io/badge/-SQLite3-003B57?style=flat-square&logo=SQLite&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ### Game Engine
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ### API

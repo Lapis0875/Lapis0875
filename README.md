@@ -23,10 +23,10 @@ I'm interested in game development, artificail intelligence, web development, an
 ### Database
 ![MySQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ### Game Engine
-![Unity](https://img.shields.io/badge/-Unity-ffffff?style=flat-square&logo=unity&logoColor=111111)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ### API
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Discord API](https://img.shields.io/badge/-discord api-7289da?style=flat-squarestyle=flat-square&logo=discord)
+![Discord API](https://img.shields.io/badge/-discord-api-7289da?style=flat-squarestyle=flat-square&logo=discord)
 ### Web Hosting
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ### ETC

@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/Lapis0875/Lapis0875/master/wave.gif" width="30px">
+# Hi there <img src="./wave.gif" width="30px">
 😎 Hi! My name is Lapis. I'm a student programmer in South Korea. I enjoy developing my own programs, and learning new techniques.
 I'm interested in game development, artificail intelligence, web development, and other fascinating domains! :sparkles:
 

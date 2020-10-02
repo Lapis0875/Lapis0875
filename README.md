@@ -41,9 +41,11 @@ I'm interested in game development, artificail intelligence, web development, an
 
 ### Project Management
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ### Java / Kotlin dependancy
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle)
+![Apache-Maven](https://img.shields.io/badge/-Apache_Maven-C71A36?style=flat-square&logo=Apache-Maven)
 
 ### Static Web Page Generator
 ![Jekyll](https://img.shields.io/badge/-Jekyll-CC0000?style=flat-square&logo=Jekyll)

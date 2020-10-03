@@ -13,7 +13,7 @@ I'm interested in game development, artificail intelligence, web development, an
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Golang](https://img.shields.io/badge/-Golang-00add8?style=flat-square&logo=Go&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![C#](https://img.shields.io/badge/-C＃-239120?style=flat-square&logo=C)
+![C#](https://img.shields.io/badge/-C＃-239120?style=flat-square&logo=C-Sharp)
 ### Things I am interested in :mag:
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white)

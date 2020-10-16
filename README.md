@@ -22,7 +22,7 @@ I'm interested in game development, artificail intelligence, web development, an
 # 📱 Tools:
 ### IDE
 ![Jetbrains](https://img.shields.io/badge/-Jetbrains-000000?style=flat-square&logo=Jetbrains&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-000000?style=flat-square&logo=visual-studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ### Code Editor
 ![VSC](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ### Web-hosted code editor

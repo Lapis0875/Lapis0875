@@ -19,17 +19,6 @@ I'm interested in game development, artificail intelligence, web development, an
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)
 
-# 📱 Tools:
-### IDE
-![Jetbrains](https://img.shields.io/badge/-Jetbrains-000000?style=flat-square&logo=Jetbrains&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-### Code Editor
-![VSC](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-### Web-hosted code editor
-![Gitpod](https://img.shields.io/badge/-Gitpod-1AA6E4?style=flat-square&logo=Gitpod&logoColor=white)
-### HTTP Request tool
-![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white)
-
 
 # 📫 How to reach me: 
 - [![Gmail Badge](https://img.shields.io/badge/-lapis0875@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lapis0875@gmail.com)](mailto:lapis0875@gmail.com)

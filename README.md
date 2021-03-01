@@ -21,7 +21,7 @@ I'm interested in game development, artificail intelligence, web development, an
 ![Golang](https://img.shields.io/badge/-Golang-00add8?style=flat-square&logo=Go&logoColor=white)
 
 # Websites:
-I sometimes write some posts in [my tech blog](https://lapis0875.github.io)
+I sometimes write some posts in [my tech blog](https://lapis0875.github.io) :pen:
 
 # My statistics:
 [![My github stats](https://github-readme-stats.vercel.app/api?username=Lapis0875&show_icons=true&hide_border=true&count_private=true)](https://github.com/Lapis0875)

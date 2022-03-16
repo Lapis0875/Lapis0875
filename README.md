@@ -11,15 +11,13 @@ I'm interested in game development, artificail intelligence, web development, an
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/-C＃-239120?style=flat-square&logo=C-Sharp)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white)
 
 # Languages I'm currently interested in :mag:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white)
 
 # Websites:
-I sometimes write some posts in [my tech blog](https://lapis0875.github.io) :pen:
+I sometimes write some posts in [my tech blog](https://velog.io/@lapis0875) :pen:
 
 # My statistics:
 [![My github stats](https://github-readme-stats.vercel.app/api?username=Lapis0875&show_icons=true&hide_border=true&count_private=true)](https://github.com/Lapis0875)

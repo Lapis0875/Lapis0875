@@ -4,7 +4,7 @@ I'm interested in artificail intelligence, web development, and other fascinatin
 
 # 📫 How to reach me: 
 - [![Kakao Mail Badge](https://img.shields.io/badge/-lapis0875@kakao.com-ffcd00?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:lapis0875@kakao.com)](mailto:lapis0875@kakao.com)
-- [![Discord Badge](https://img.shields.io/badge/-lapis0875＃1383-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com)](https://discord.com)
+- [![Discord Badge](https://img.shields.io/badge/-lapis＃0875-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com)](https://discord.com)
 
 # 💻 Development  Languages:
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)

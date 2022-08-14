@@ -1,6 +1,6 @@
 # Hi there <img src="./wave.gif" width="30px">
 😎 Hi! My name is Lapis. I'm a student programmer in South Korea. I enjoy developing my own programs, and learning new techniques.
-I'm interested in game development, artificail intelligence, web development, and other fascinating domains! :sparkles:
+I'm interested in artificail intelligence, web development, and other fascinating domains! :sparkles:
 
 # 📫 How to reach me: 
 - [![Kakao Mail Badge](https://img.shields.io/badge/-lapis0875@kakao.com-ffcd00?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:lapis0875@kakao.com)](mailto:lapis0875@kakao.com)

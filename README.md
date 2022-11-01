@@ -2,22 +2,19 @@
 😎 Hi! My name is Lapis. I'm a student programmer in South Korea. I enjoy developing my own programs, and learning new techniques.
 I'm interested in artificail intelligence, web development, and other fascinating domains! :sparkles:
 
-# 📫 How to reach me: 
-- [![Kakao Mail Badge](https://img.shields.io/badge/-lapis0875@kakao.com-ffcd00?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:lapis0875@kakao.com)](mailto:lapis0875@kakao.com)
+# 📫 Contacts:
+- [![GMail Badge](https://img.shields.io/badge/-lapis0875@gmail.com-EA4335?style=flat-square&logo=GMail&logoColor=white&link=mailto:lapis0875@gmail.com)](mailto:lapis0875@gmail.com)
 - [![Discord Badge](https://img.shields.io/badge/-lapis＃0875-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com)](https://discord.com)
 
-# 💻 Development  Languages:
+# 💻 Development Languages
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/-C＃-239120?style=flat-square&logo=C-Sharp)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-FFFFFF?style=flat-square&logo=OpenJDK&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 
-# Languages I'm currently interested in :mag:
+# 🔍 Languages I'm interested in 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white)
 
-# Websites:
-I sometimes write some posts in [my tech blog](https://velog.io/@lapis0875) :pen:
-
-# My statistics:
-[![My github stats](https://github-readme-stats.vercel.app/api?username=Lapis0875&show_icons=true&hide_border=true&count_private=true)](https://github.com/Lapis0875)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lapis0875&layout=compact)](https://github.com/Lapis0875)
+# ![Velog](https://img.shields.io/badge/-Velog-white?style=flat-square&logo=Velog) Websites
+I sometimes write some posts in [my tech blog](https://velog.io/@lapis0875)

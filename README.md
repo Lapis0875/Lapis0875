@@ -4,7 +4,7 @@ I'm interested in artificail intelligence, web development, and other fascinatin
 
 # 📫 Contacts:
 - [![GMail Badge](https://img.shields.io/badge/-lapis0875@gmail.com-EA4335?style=flat-square&logo=GMail&logoColor=white&link=mailto:lapis0875@gmail.com)](mailto:lapis0875@gmail.com)
-- [![Discord Badge](https://img.shields.io/badge/-lapis＃0875-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com)](https://discord.com)
+- [![Discord Badge](https://img.shields.io/badge/-lapis＃0875-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com)](https://discord.com/users/280855156608860160)
 
 # 💻 Development Languages
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)

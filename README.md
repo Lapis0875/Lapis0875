@@ -18,3 +18,11 @@ I'm interested in artificail intelligence, web development, and other fascinatin
 
 # ![Velog](https://img.shields.io/badge/-Velog-white?style=flat-square&logo=Velog) Websites
 I sometimes write some posts in [my tech blog](https://velog.io/@lapis0875)
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/Lapis0875"
+  width="600"
+  height="300"
+/>
+</a>

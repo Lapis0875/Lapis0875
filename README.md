@@ -8,13 +8,13 @@ I'm interested in artificail intelligence, web development, and other fascinatin
 
 # 💻 Development Languages
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-FFFFFF?style=flat-square&logo=OpenJDK&logoColor=black)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 
 # 🔍 Languages I'm interested in 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=kotlin)
+![Kotlin](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white)
 
-# ![Velog](https://img.shields.io/badge/-Velog-white?style=flat-square&logo=Velog) Websites
-I sometimes write some posts in [my tech blog](https://velog.io/@lapis0875)
+# Websites
+I sometimes write some posts in [my tech blog](https://blog.lapis0875.com)

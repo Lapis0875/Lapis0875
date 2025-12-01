@@ -12,8 +12,8 @@ I'm interested in artificail intelligence, web development, and other fascinatin
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 
 # 🔍 Languages I'm interested in 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=kotlin)
-![Kotlin](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white)
 
 # Websites

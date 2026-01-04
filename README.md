@@ -2,6 +2,8 @@
 😎 Hi! My name is Lapis. I'm a student programmer in South Korea. I enjoy developing my own programs, and learning new techniques.
 I'm interested in artificail intelligence, web development, and other fascinating domains! :sparkles:
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lapis0875)](https://solved.ac/lapis0875)
+
 # 📫 Contacts:
 - [![GMail Badge](https://img.shields.io/badge/-lapis0875@gmail.com-EA4335?style=flat-square&logo=GMail&logoColor=white&link=mailto:lapis0875@gmail.com)](mailto:lapis0875@gmail.com)
 - [![Discord Badge](https://img.shields.io/badge/-lapis＃0875-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com)](https://discord.com/users/280855156608860160)

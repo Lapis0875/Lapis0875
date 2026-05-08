@@ -16,4 +16,9 @@ I'm interested in backend development, artificail intelligence, and other fascin
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[PS] BOJ 1300 / K번째 수](https://blog.lapis0875.com/boj-1300/)
+- [[PS] BOJ 24508 / 나도리팡](https://blog.lapis0875.com/boj-24508/)
+- [[PS] BOJ 2141 / 우체국](https://blog.lapis0875.com/boj-2141/)
+- [[PS] BOJ 34955 / 낚시 &lpar;Hard&rpar;](https://blog.lapis0875.com/boj-34955/)
+- [[PS] BOJ 1167 / 트리의 지름](https://blog.lapis0875.com/boj-1167/)
 <!-- BLOG-POST-LIST:END -->

@@ -30,3 +30,6 @@ I'm interested in backend development, artificail intelligence, and other fascin
 ## 🗣️ My Activity
 
 <!--START_SECTION:activity-->
+1. ℹ️ Assigned issue [#12](https://github.com/Spotter-studio/spotter-backend/issues/12) in [Spotter-studio/spotter-backend](https://github.com/Spotter-studio/spotter-backend)
+2. ❗ Opened issue [#12](https://github.com/Spotter-studio/spotter-backend/issues/12) in [Spotter-studio/spotter-backend](https://github.com/Spotter-studio/spotter-backend)
+<!--END_SECTION:activity-->

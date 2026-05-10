@@ -24,4 +24,4 @@ I'm interested in backend development, artificail intelligence, and other fascin
 <!-- BLOG-POST-LIST:END -->
 
 ## 🗣️ My Activity
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
+<!--START_SECTION:activity-->

@@ -30,6 +30,6 @@ I'm interested in backend development, artificail intelligence, and other fascin
 ## 🗣️ My Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Festi-app/Festi-backend/pull/5) in [Festi-app/Festi-backend](https://github.com/Festi-app/Festi-backend)
-2. 🔒 Closed issue [#19](https://github.com/Spotter-studio/spotter-backend/issues/19) in [Spotter-studio/spotter-backend](https://github.com/Spotter-studio/spotter-backend)
+1. 💪 Opened PR [#8](https://github.com/Festi-app/Festi-backend/pull/8) in [Festi-app/Festi-backend](https://github.com/Festi-app/Festi-backend)
+2. ❗ Opened issue [#7](https://github.com/Festi-app/Festi-backend/issues/7) in [Festi-app/Festi-backend](https://github.com/Festi-app/Festi-backend)
 <!--END_SECTION:activity-->

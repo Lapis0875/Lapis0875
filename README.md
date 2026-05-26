@@ -30,6 +30,6 @@ I'm interested in backend development, artificail intelligence, and other fascin
 ## 🗣️ My Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#61](https://github.com/Festi-app/Festi-backend/pull/61) in [Festi-app/Festi-backend](https://github.com/Festi-app/Festi-backend)
-2. 💪 Opened PR [#61](https://github.com/Festi-app/Festi-backend/pull/61) in [Festi-app/Festi-backend](https://github.com/Festi-app/Festi-backend)
+1. ℹ️ Labeled issue [#62](https://github.com/Festi-app/Festi-backend/issues/62) in [Festi-app/Festi-backend](https://github.com/Festi-app/Festi-backend)
+2. ❗ Opened issue [#62](https://github.com/Festi-app/Festi-backend/issues/62) in [Festi-app/Festi-backend](https://github.com/Festi-app/Festi-backend)
 <!--END_SECTION:activity-->

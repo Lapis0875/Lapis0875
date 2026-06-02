@@ -30,6 +30,6 @@ I'm interested in backend development, artificail intelligence, and other fascin
 ## 🗣️ My Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#17](https://github.com/SoftwareProject26S1/DARWIN-RAG-Expr2-Ablation-Study/issues/17) in [SoftwareProject26S1/DARWIN-RAG-Expr2-Ablation-Study](https://github.com/SoftwareProject26S1/DARWIN-RAG-Expr2-Ablation-Study)
-2. ℹ️ Assigned issue [#17](https://github.com/SoftwareProject26S1/DARWIN-RAG-Expr2-Ablation-Study/issues/17) in [SoftwareProject26S1/DARWIN-RAG-Expr2-Ablation-Study](https://github.com/SoftwareProject26S1/DARWIN-RAG-Expr2-Ablation-Study)
+1. ℹ️ Assigned issue [#18](https://github.com/SoftwareProject26S1/DARWIN-RAG-Expr2-Ablation-Study/issues/18) in [SoftwareProject26S1/DARWIN-RAG-Expr2-Ablation-Study](https://github.com/SoftwareProject26S1/DARWIN-RAG-Expr2-Ablation-Study)
+2. 💪 Opened PR [#19](https://github.com/SoftwareProject26S1/DARWIN-RAG-Expr2-Ablation-Study/pull/19) in [SoftwareProject26S1/DARWIN-RAG-Expr2-Ablation-Study](https://github.com/SoftwareProject26S1/DARWIN-RAG-Expr2-Ablation-Study)
 <!--END_SECTION:activity-->

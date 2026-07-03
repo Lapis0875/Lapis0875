@@ -1,7 +1,7 @@
 # Hi there <img src="./wave.gif" width="30px">
 
 😎 Hi! My name is Minjun Kim. I'm a student programmer in South Korea. I enjoy developing my own programs, and learning new techniques.
-I'm interested in backend development, artificail intelligence, and other fascinating domains! :sparkles:
+I'm interested in backend development, artificial intelligence, and other fascinating domains! :sparkles:
 
 [![solved.ac stats](https://solvedac-readme-stats.vercel.app/api?handle=lapis0875&v=2&download=1)](https://github.com/kookjd7759/solvedac-readme-stats)
 

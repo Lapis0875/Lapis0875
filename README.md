@@ -17,6 +17,10 @@ I'm interested in backend development, artificial intelligence, and other fascin
 ![Java](https://img.shields.io/badge/-Java-FFFFFF?style=flat-square&logo=OpenJDK&logoColor=black)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 
+## Vibe Coding Tonight 🌙
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/Lapis0875/svg?rank=percent&tokens=compact&cost=compact)](https://tokscale.ai/u/Lapis0875)
+
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->

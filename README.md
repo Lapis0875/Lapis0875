@@ -34,6 +34,6 @@ I'm interested in backend development, artificial intelligence, and other fascin
 ## 🗣️ My Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/26-summer-aisw-project/Backend/pull/31) in [26-summer-aisw-project/Backend](https://github.com/26-summer-aisw-project/Backend)
-2. ℹ️ Assigned PR [#31](https://github.com/26-summer-aisw-project/Backend/pull/31) in [26-summer-aisw-project/Backend](https://github.com/26-summer-aisw-project/Backend)
+1. 🗣 Commented on [#24](https://github.com/26-summer-aisw-project/Backend/issues/24#issuecomment-5284542469) in [26-summer-aisw-project/Backend](https://github.com/26-summer-aisw-project/Backend)
+2. 🔓 Reopened issue [#24](https://github.com/26-summer-aisw-project/Backend/issues/24) in [26-summer-aisw-project/Backend](https://github.com/26-summer-aisw-project/Backend)
 <!--END_SECTION:activity-->

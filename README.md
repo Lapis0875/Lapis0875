@@ -34,6 +34,6 @@ I'm interested in backend development, artificial intelligence, and other fascin
 ## 🗣️ My Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/26-summer-aisw-project/Backend/pull/44) in [26-summer-aisw-project/Backend](https://github.com/26-summer-aisw-project/Backend)
-2. ℹ️ Reopened PR [#44](https://github.com/26-summer-aisw-project/Backend/pull/44) in [26-summer-aisw-project/Backend](https://github.com/26-summer-aisw-project/Backend)
+1. 💪 Opened PR [#1](https://github.com/unithon26-team24/Backend/pull/1) in [unithon26-team24/Backend](https://github.com/unithon26-team24/Backend)
+2. 🎉 Merged PR [#44](https://github.com/26-summer-aisw-project/Backend/pull/44) in [26-summer-aisw-project/Backend](https://github.com/26-summer-aisw-project/Backend)
 <!--END_SECTION:activity-->

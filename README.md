@@ -34,6 +34,6 @@ I'm interested in backend development, artificial intelligence, and other fascin
 ## 🗣️ My Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#34](https://github.com/Mulgil/Mulgil-Backend/issues/34) in [Mulgil/Mulgil-Backend](https://github.com/Mulgil/Mulgil-Backend)
-2. ℹ️ Labeled issue [#34](https://github.com/Mulgil/Mulgil-Backend/issues/34) in [Mulgil/Mulgil-Backend](https://github.com/Mulgil/Mulgil-Backend)
+1. 🗣 Commented on [#34](https://github.com/Mulgil/Mulgil-Backend/issues/34#issuecomment-5540983274) in [Mulgil/Mulgil-Backend](https://github.com/Mulgil/Mulgil-Backend)
+2. 🎉 Merged PR [#32](https://github.com/Mulgil/Mulgil-Frontend/pull/32) in [Mulgil/Mulgil-Frontend](https://github.com/Mulgil/Mulgil-Frontend)
 <!--END_SECTION:activity-->

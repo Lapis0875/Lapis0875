@@ -34,6 +34,6 @@ I'm interested in backend development, artificial intelligence, and other fascin
 ## 🗣️ My Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/Mulgil/Mulgil-Backend/pull/44) in [Mulgil/Mulgil-Backend](https://github.com/Mulgil/Mulgil-Backend)
-2. 💪 Opened PR [#44](https://github.com/Mulgil/Mulgil-Backend/pull/44) in [Mulgil/Mulgil-Backend](https://github.com/Mulgil/Mulgil-Backend)
+1. 💪 Opened PR [#8](https://github.com/KOSSCCHTHON-Team4/Backend/pull/8) in [KOSSCCHTHON-Team4/Backend](https://github.com/KOSSCCHTHON-Team4/Backend)
+2. 🎉 Merged PR [#7](https://github.com/KOSSCCHTHON-Team4/Backend/pull/7) in [KOSSCCHTHON-Team4/Backend](https://github.com/KOSSCCHTHON-Team4/Backend)
 <!--END_SECTION:activity-->

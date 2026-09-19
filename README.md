@@ -34,6 +34,6 @@ I'm interested in backend development, artificial intelligence, and other fascin
 ## 🗣️ My Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#24](https://github.com/KOSSCCHTHON-Team4/Backend/pull/24) in [KOSSCCHTHON-Team4/Backend](https://github.com/KOSSCCHTHON-Team4/Backend)
-2. ℹ️ Assigned PR [#20](https://github.com/KOSSCCHTHON-Team4/Backend/pull/20) in [KOSSCCHTHON-Team4/Backend](https://github.com/KOSSCCHTHON-Team4/Backend)
+1. ℹ️ Assigned PR [#32](https://github.com/KOSSCCHTHON-Team4/Backend/pull/32) in [KOSSCCHTHON-Team4/Backend](https://github.com/KOSSCCHTHON-Team4/Backend)
+2. 🎉 Merged PR [#32](https://github.com/KOSSCCHTHON-Team4/Backend/pull/32) in [KOSSCCHTHON-Team4/Backend](https://github.com/KOSSCCHTHON-Team4/Backend)
 <!--END_SECTION:activity-->

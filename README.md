@@ -17,7 +17,6 @@ I'm interested in backend development, AX(AI Transformation), and other fascinat
 
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-FFFFFF?style=flat-square&logo=OpenJDK&logoColor=black)
-![Rust](https://img.shields.io/badge/-RUST-A8B9CC?style=flat-square&logo=C&logoColor=white)
 
 ## Vibe Coding Tonight 🌙
 

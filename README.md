@@ -1,7 +1,9 @@
 # Hi there <img src="./wave.gif" width="30px">
 
-😎 Hi! My name is Minjun Kim. I'm a student programmer in South Korea. I enjoy developing my own programs, and learning new techniques.
-I'm interested in backend development, artificial intelligence, and other fascinating domains! :sparkles:
+My name is Minjun Kim. I'm a student programmer in South Korea. 
+
+I enjoy developing my own programs, and learning new techniques.
+I'm interested in backend development, AX(AI Transformation), and other fascinating domains! :sparkles:
 
 [![solved.ac stats](https://solvedac-readme-stats.vercel.app/api?handle=lapis0875&v=2&download=1)](https://github.com/kookjd7759/solvedac-readme-stats)
 
@@ -15,7 +17,7 @@ I'm interested in backend development, artificial intelligence, and other fascin
 
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-FFFFFF?style=flat-square&logo=OpenJDK&logoColor=black)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+![Rust](https://img.shields.io/badge/-RUST-A8B9CC?style=flat-square&logo=C&logoColor=white)
 
 ## Vibe Coding Tonight 🌙
 

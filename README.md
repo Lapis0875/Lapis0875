@@ -5,7 +5,7 @@ My name is Minjun Kim. I'm a student programmer in South Korea.
 I enjoy developing my own programs, and learning new techniques.
 I'm interested in backend development, AX(AI Transformation), and other fascinating domains! :sparkles:
 
-[![solved.ac stats](https://solvedac-readme-stats.vercel.app/api?handle=lapis0875&v=2&download=1)](https://github.com/kookjd7759/solvedac-readme-stats)
+[![solved.ac stats](./solvedac-lapis0875-archive-2026-04-21-v2.svg)](https://github.com/kookjd7759/solvedac-readme-stats)
 
 
 ## 📫 Contacts:

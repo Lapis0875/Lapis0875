@@ -9,7 +9,7 @@ I'm interested in backend development, AX(AI Transformation), and other fascinat
 
 ## Portfolio Webpage
 
-[portfolio webpage](https://me.lapis0875.com)
+[https://me.lapis0875.com](https://me.lapis0875.com)
 
 ## 📫 Contacts:
 

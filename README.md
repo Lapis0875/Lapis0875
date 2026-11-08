@@ -38,6 +38,6 @@ I'm interested in backend development, AX(AI Transformation), and other fascinat
 ## 🗣️ My Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/dbwofla11/paper_AgentCLI/pull/9) in [dbwofla11/paper_AgentCLI](https://github.com/dbwofla11/paper_AgentCLI)
-2. 🎉 Merged PR [#8](https://github.com/dbwofla11/paper_AgentCLI/pull/8) in [dbwofla11/paper_AgentCLI](https://github.com/dbwofla11/paper_AgentCLI)
+1. 💪 Opened PR [#11](https://github.com/dbwofla11/paper_AgentCLI/pull/11) in [dbwofla11/paper_AgentCLI](https://github.com/dbwofla11/paper_AgentCLI)
+2. 💪 Opened PR [#10](https://github.com/dbwofla11/paper_AgentCLI/pull/10) in [dbwofla11/paper_AgentCLI](https://github.com/dbwofla11/paper_AgentCLI)
 <!--END_SECTION:activity-->

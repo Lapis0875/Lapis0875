@@ -3,7 +3,8 @@
 My name is Minjun Kim. I'm a student programmer in South Korea. 
 
 I enjoy developing my own programs, and learning new techniques.
-I'm interested in backend development, AX(AI Transformation), and other fascinating domains! :sparkles:
+I'm mainly works in backend development (Spring Boot), AX(AI Transformation), and other fascinating domains! :sparkles:
+Also frequently reads papers in LLM domains.
 
 [![solved.ac stats](./solvedac-lapis0875-archive-2026-04-21-v2.svg)](https://github.com/kookjd7759/solvedac-readme-stats)
 
@@ -15,11 +16,6 @@ I'm interested in backend development, AX(AI Transformation), and other fascinat
 
 - [![GMail Badge](https://img.shields.io/badge/-lapis0875@gmail.com-EA4335?style=flat-square&logo=GMail&logoColor=white&link=mailto:lapis0875@gmail.com)](mailto:lapis0875@gmail.com)
 - [![Discord Badge](https://img.shields.io/badge/-lapis＃0875-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com)](https://discord.com/users/280855156608860160)
-
-## 💻 Development Languages
-
-![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-FFFFFF?style=flat-square&logo=OpenJDK&logoColor=black)
 
 ## ⚙️ AX Engineer
 

@@ -34,6 +34,6 @@ Also frequently reads papers in LLM domains.
 ## 🗣️ My Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/dbwofla11/paper_AgentCLI/pull/11) in [dbwofla11/paper_AgentCLI](https://github.com/dbwofla11/paper_AgentCLI)
-2. 🎉 Merged PR [#10](https://github.com/dbwofla11/paper_AgentCLI/pull/10) in [dbwofla11/paper_AgentCLI](https://github.com/dbwofla11/paper_AgentCLI)
+1. ℹ️ Assigned PR [#1](https://github.com/Lapis0875/herdr-lazuli/pull/1) in [Lapis0875/herdr-lazuli](https://github.com/Lapis0875/herdr-lazuli)
+2. 💪 Opened PR [#1](https://github.com/Lapis0875/herdr-lazuli/pull/1) in [Lapis0875/herdr-lazuli](https://github.com/Lapis0875/herdr-lazuli)
 <!--END_SECTION:activity-->

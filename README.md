@@ -34,6 +34,6 @@ Also frequently reads papers in LLM domains.
 ## 🗣️ My Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Lapis0875/herdr-lazuli/pull/1) in [Lapis0875/herdr-lazuli](https://github.com/Lapis0875/herdr-lazuli)
-2. ℹ️ Assigned PR [#1](https://github.com/Lapis0875/herdr-lazuli/pull/1) in [Lapis0875/herdr-lazuli](https://github.com/Lapis0875/herdr-lazuli)
+1. 🎉 Merged PR [#2](https://github.com/Lapis0875/herdr-lazuli/pull/2) in [Lapis0875/herdr-lazuli](https://github.com/Lapis0875/herdr-lazuli)
+2. ℹ️ Assigned PR [#2](https://github.com/Lapis0875/herdr-lazuli/pull/2) in [Lapis0875/herdr-lazuli](https://github.com/Lapis0875/herdr-lazuli)
 <!--END_SECTION:activity-->

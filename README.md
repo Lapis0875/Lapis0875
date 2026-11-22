@@ -24,11 +24,11 @@ Also frequently reads papers in LLM domains.
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[코테 기출 스터디] 1일차](https://blog.lapis0875.com/coding-test-study-gdgoc-261121/)
 - [[Pycon KR 26] 매우 늦게 쓰는 파이콘 후기](https://blog.lapis0875.com/pycon-kr-26-review/)
 - [[PS] BOJ 1300 / K번째 수](https://blog.lapis0875.com/boj-1300/)
 - [[PS] BOJ 24508 / 나도리팡](https://blog.lapis0875.com/boj-24508/)
 - [[PS] BOJ 2141 / 우체국](https://blog.lapis0875.com/boj-2141/)
-- [[PS] BOJ 34955 / 낚시 &lpar;Hard&rpar;](https://blog.lapis0875.com/boj-34955/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🗣️ My Activity
